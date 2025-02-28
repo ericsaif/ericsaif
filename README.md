@@ -1,5 +1,5 @@
 ## Hi there 👋 My Name is - Erik Saifullin
-💻 **Full-Stack Developer | ASP.NET | Laravel | Mobile Dev**
+💻 **Full-Stack Developer | ASP.NET | Angular | Blazor | Laravel **
 
 ## 🚀 Skills  
 - .NET (C#), Blazor, Angular, PHP, Laravel, JavaScript  
